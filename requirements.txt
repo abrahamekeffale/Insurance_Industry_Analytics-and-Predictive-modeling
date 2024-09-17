@@ -1,2 +1,6 @@
 pandas
 dvc
+scipy
+sklearn
+xgboost
+unittest
