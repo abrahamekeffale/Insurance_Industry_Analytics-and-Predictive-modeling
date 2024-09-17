@@ -11,7 +11,17 @@ This project involves exploratory data analysis (EDA), A/B hypothesis testing, a
 - **Model Interpretability**: Feature importance analysis using SHAP/LIME to understand which factors contribute most to predictions.
 
 ## Project Structure
-|-- app/ | |-- main.py # Streamlit app (if applicable) |-- notebooks/ | |-- exploratory_analysis.ipynb # Jupyter notebook for EDA |-- scripts/ | |-- data_summarization.py # Data summarization script | |-- ab_hypothesis_testing.py # A/B hypothesis testing script | |-- statistical_modeling.py # Statistical modeling script | |-- utils.py # Utility functions |-- tests/ | |-- test_ab_testing.py # Unit tests for hypothesis testing | |-- test_modeling.py # Unit tests for model evaluation |-- data/ | |-- your_data.csv # Dataset |-- README.md |-- requirements.txt # Python dependencies
+| |-- main.py 
+|-- notebooks/ | |-- exploratory_analysis.ipynb # Jupyter notebook for EDA 
+|-- scripts/ | |-- data_summarization.py # Data summarization script | 
+             |-- ab_hypothesis_testing.py # A/B hypothesis testing script | 
+             |-- statistical_modeling.py # Statistical modeling script |
+             |-- utils.py # Utility functions 
+|-- tests/ | |-- test_ab_testing.py # Unit tests for hypothesis testing | 
+            |-- test_modeling.py # Unit tests for model evaluation 
+|-- data/ | |-- your_data.csv # Dataset 
+|-- README.md 
+|-- requirements.txt # Python dependencies
 ## How to Run
 1. Clone this repository.
 2. Install required dependencies using:
