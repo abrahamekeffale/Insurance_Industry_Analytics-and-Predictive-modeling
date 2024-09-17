@@ -11,3 +11,13 @@ This project involves exploratory data analysis (EDA), A/B hypothesis testing, a
 - **Model Interpretability**: Feature importance analysis using SHAP/LIME to understand which factors contribute most to predictions.
 
 ## Project Structure
+
+## How to Run
+1. Clone this repository.
+2. Install required dependencies using:
+
+3. Run the individual scripts for data summarization, A/B hypothesis testing, and statistical modeling by navigating to the `scripts` folder:
+
+
+## Contributions
+Feel free to contribute by creating issues or submitting pull requests.
